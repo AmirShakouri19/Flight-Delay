@@ -33,6 +33,5 @@ Given the size of the dataset  online method using dynamic time-averaging is use
 
 <img src="/Images/Image4.png">
 
-You can find the dataset address and the modeling steps I took in the "Main" notebook. Also, the "app" folder include the code for the Aeolus app.
 
 Interested or have questions? Please don't hesitate to comment here or contact me. Also, feel free to fork and contribute to the project...
