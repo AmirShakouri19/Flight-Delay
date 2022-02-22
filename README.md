@@ -29,7 +29,8 @@ Interested or have questions? Please don't hesitate to comment here or contact m
 
 
 
-Given the size of the dataset  online method using dynamic time-averaging is used to engineer features to improve he predictions considering the highly-stochastic nature of the problem... 
+Given the size of the dataset  online method using dynamic time-averaging is used to engineer features to improve he predictions considering the highly-stochastic nature of the problem...
+
 <img src="/Images/Image4.png">
 
 You can find the dataset address and the modeling steps I took in the "Main" notebook. Also, the "app" folder include the code for the Aeolus app.
